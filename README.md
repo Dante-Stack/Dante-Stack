@@ -3,7 +3,7 @@ I am a business minded sports fanatic with experience transforming business chal
 
 ## Insight Publications
 - [20 predictions for the next 20 years](https://kpmg.com/ca/en/home/market-insights/predictions.html): 20 predictions of how society, technology, markets and regulation could evolve
-- [Leading the charge](https://kpmg.com/ca/en/home/insights/2022/05/leading-the-charge.html): Canada’s opportunity to be at the forefront of the mobility revolution
+- [Leading the charge](https://kpmg.com/ca/en/home/insights/2022/05/leading-the-charge.html): Analyzing Canada’s opportunity to be at the forefront of the mobility revolution
 
 ## [Tableau](https://public.tableau.com/app/profile/dante.stack) 
 - Superstore Sales Dashboard
