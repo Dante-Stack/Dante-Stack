@@ -6,6 +6,8 @@ I am a business minded sports fanatic with experience transforming business chal
 - [Leading the charge](https://kpmg.com/ca/en/home/insights/2022/05/leading-the-charge.html): Analyzing Canada’s opportunity to be at the forefront of the mobility revolution
 
 ## [Tableau](https://public.tableau.com/app/profile/dante.stack) 
+- NHL The Rise of Greatness
 - Superstore Sales Dashboard
 - NHS Hospital Data 2020-21
 - Car Insurance 2020 (Make Over Monday)
+
