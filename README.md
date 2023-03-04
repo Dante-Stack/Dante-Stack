@@ -6,9 +6,9 @@ I am a business minded sports fanatic with experience transforming business chal
 - [Leading the charge](https://kpmg.com/ca/en/home/insights/2022/05/leading-the-charge.html): Analyzing Canada’s opportunity to be at the forefront of the mobility revolution
 
 ## [Tableau](https://public.tableau.com/app/profile/dante.stack) 
-- Integrated Fufilment Planning - Supply Chain Forecast (Case Study)
-- NHL The Rise of Greatness
-- Superstore Sales Dashboard
-- NHS Hospital Data 2020-21
-- Car Insurance 2020 (Make Over Monday)
+- [Integrated Fufilment Planning - Supply Chain Forecast (Case Study)](https://public.tableau.com/app/profile/dante.stack/viz/IntegratedFufilmentPlanning-SupplyChainForecast/AugustandSeptemberForecastOverview)
+- [NHL The Rise of Greatness](https://public.tableau.com/app/profile/dante.stack/viz/NHLTheRiseofGreatness/HomePage)
+- [Superstore Sales Dashboard](https://public.tableau.com/app/profile/dante.stack/viz/SuperstoreSalesFinal_16740131059040/SalesOverview)
+- [NHS Hospital Data 2020-21](https://public.tableau.com/app/profile/dante.stack/viz/NHSHospitalData2020-21Final/NHSHospitalDashboard)
+- [Car Insurance 2020 (Make Over Monday)(https://public.tableau.com/app/profile/dante.stack/viz/CarInsuranceMakeoverMonday2020W20_16737573490600/Dashboard1)
 
