@@ -3,7 +3,7 @@ I am a business minded sports fanatic with experience transforming business chal
 
 ## Insight Publications
 - [20 predictions for the next 20 years](https://kpmg.com/ca/en/home/market-insights/predictions.html](https://kpmg.com/ca/en/home/insights/2022/01/20-predictions-why-it-should-matter-to-boards.html)): 20 predictions of how society, technology, markets and regulation could evolve
-
+<br />
 **Media Coverage**
   * [CTV News: Flying cars and talking fridges: 20 predictions for the next 20 years](https://www.ctvnews.ca/sci-tech/flying-cars-and-talking-fridges-20-predictions-for-the-next-20-years-1.5667731)
   * [Toronto Star: Flying cars and talking fridges: 20 predictions for the next 20 years](https://www.thestar.com/business/mars/opinion-20-years-20-predictions-how-canada-s-future-is-linked-to-technology/article_9b9a31cd-a2d3-566b-9a83-c1ea4ea80024.html)
