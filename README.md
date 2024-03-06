@@ -2,7 +2,7 @@
 I am a business minded sports fanatic with experience transforming business challenges and opportunities into actionable insights and solutions. I have an innovative mindset and am deeply passionate about combining my love of sports with my skillsets in conducting data analytics, creating visualizations, and developing insights.
 
 ## Insight Publications
-- [20 predictions for the next 20 years]: 20 predictions of how society, technology, markets and regulation could evolve <br />
+- 20 predictions for the next 20 years: 20 predictions of how society, technology, markets and regulation could evolve <br />
 **Media Coverage**
   * [CTV News](https://www.ctvnews.ca/sci-tech/flying-cars-and-talking-fridges-20-predictions-for-the-next-20-years-1.5667731): Flying cars and talking fridges: 20 predictions for the next 20 years
   * [Toronto Star](https://www.thestar.com/business/mars/opinion-20-years-20-predictions-how-canada-s-future-is-linked-to-technology/article_9b9a31cd-a2d3-566b-9a83-c1ea4ea80024.html): Flying cars and talking fridges: 20 predictions for the next 20 years
